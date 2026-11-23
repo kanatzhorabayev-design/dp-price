@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog date="2026-11-21 21:49" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog date="2026-11-23 22:48" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>DIGITAL-PRO</company>
   <merchantid>16037339</merchantid>
   <offers>
@@ -202,9 +202,9 @@
     <offer sku="148974960">
       <model>Мобильный приемник DJI Mic Series</model>
       <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>28000</price>
+      <price>21000</price>
     </offer>
     <offer sku="150702344">
       <model>DJI Mic адаптер (USB-C to Lightning)</model>
@@ -230,9 +230,9 @@
     <offer sku="131847578">
       <model>Адаптер DJI Mic Mini для разъема Lightning</model>
       <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>35000</price>
+      <price>26250</price>
     </offer>
     <offer sku="146026051">
       <model>Приемник DJI Mic 3</model>
@@ -468,9 +468,9 @@
     <offer sku="150194629">
       <model>Аккумулятор DJI Neo 2</model>
       <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>45000</price>
+      <price>33750</price>
     </offer>
     <offer sku="158714388">
       <model>Пропеллеры DJI Neo 2 (2 шт)</model>
@@ -692,7 +692,7 @@
     <offer sku="131879676">
       <model>Аккумулятор DJI Neo</model>
       <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
       <price>37000</price>
     </offer>
@@ -708,7 +708,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="2"/>
       </availabilities>
-      <price>18750</price>
+      <price>14993</price>
     </offer>
     <offer sku="137927660">
       <model>Пропеллеры DJI Mini 4 Pro/Mini 3 Pro (4 шт)</model>
@@ -722,7 +722,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>53927</price>
+      <price>53644</price>
     </offer>
     <offer sku="143670912">
       <model>Камера DJI Osmo 360 Adventure Combo</model>
@@ -1114,7 +1114,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>94791</price>
+      <price>94668</price>
     </offer>
     <offer sku="117020567">
       <model>Картридер Xcellon CR-P20</model>
@@ -1518,7 +1518,7 @@
     <offer sku="177359119">
       <model>Бутыль 7.5 л</model>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="yes" storeId="PP1" stockCount="3"/>
       </availabilities>
       <price>4500</price>
     </offer>
@@ -1912,7 +1912,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>94791</price>
+      <price>94668</price>
     </offer>
     <offer sku="CR-P20">
       <model>Картридер Xcellon CR-P20</model>
@@ -2229,19 +2229,12 @@
       </availabilities>
       <price>22000</price>
     </offer>
-    <offer sku="CP.RN.00000429.011">
+    <offer sku="134373181">
       <model>Адаптер DJI Mic Mini для разъема Lightning</model>
       <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>35000</price>
-    </offer>
-    <offer sku="CP.RN.00000429.012">
-      <model>Адаптер DJI Mic Mini для разъема Lightning</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>35000</price>
+      <price>26250</price>
     </offer>
     <offer sku="112409408">
       <model>Адаптер DJI Mic 1 для разъема Lightning</model>
@@ -2472,7 +2465,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="2"/>
       </availabilities>
-      <price>9000</price>
+      <price>8184</price>
     </offer>
     <offer sku="149551103">
       <model>Аккумулятор DJI Mini 5 Pro Plus</model>
