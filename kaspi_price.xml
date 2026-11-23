@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog date="2026-11-24 00:22" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog date="2026-11-24 00:34" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>DIGITAL-PRO</company>
   <merchantid>16037339</merchantid>
   <offers>
@@ -435,7 +435,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>53631</price>
+      <price>53626</price>
     </offer>
     <offer sku="CP.RN.00000397.02">
       <model>Видео-передатчик DJI SDR Transmission Combo</model>
@@ -491,7 +491,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="2"/>
       </availabilities>
-      <price>19986</price>
+      <price>19994</price>
     </offer>
     <offer sku="154322208">
       <model>DJI Osmo Action 1.5m Extension Rod Kit (селфи 1,5 м)</model>
@@ -526,7 +526,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>13987</price>
+      <price>13994</price>
     </offer>
     <offer sku="138720463">
       <model>DJI Osmo Action Mini Extension Rod</model>
@@ -575,7 +575,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="3"/>
       </availabilities>
-      <price>47987</price>
+      <price>47994</price>
     </offer>
     <offer sku="162174461">
       <model>Быстросъемный складной адаптер DJI Osmo Action 6/Nano</model>
@@ -1149,7 +1149,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="3"/>
       </availabilities>
-      <price>24986</price>
+      <price>25000</price>
     </offer>
     <offer sku="165897868">
       <model>DJI Osmo Mobile 8P AI с модулем отслеживания</model>
