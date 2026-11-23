@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog date="2026-11-24 00:18" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog date="2026-11-24 00:22" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>DIGITAL-PRO</company>
   <merchantid>16037339</merchantid>
   <offers>
@@ -218,7 +218,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>89977</price>
+      <price>89984</price>
     </offer>
     <offer sku="137232397">
       <model>Очки DJI Goggles N3</model>
@@ -337,7 +337,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="2"/>
       </availabilities>
-      <price>73870</price>
+      <price>73855</price>
     </offer>
     <offer sku="113244306">
       <model>Пропеллер DJI Air 3/3S (2 шт)</model>
@@ -435,7 +435,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>53632</price>
+      <price>53631</price>
     </offer>
     <offer sku="CP.RN.00000397.02">
       <model>Видео-передатчик DJI SDR Transmission Combo</model>
@@ -603,7 +603,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="2"/>
       </availabilities>
-      <price>10591</price>
+      <price>10598</price>
     </offer>
     <offer sku="144327765">
       <model>Широкоугольный объектив для DJI Osmo Pocket 3</model>
@@ -617,7 +617,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="5"/>
       </availabilities>
-      <price>15730</price>
+      <price>15723</price>
     </offer>
     <offer sku="130602373">
       <model>Аккумулятор DJI Osmo Action 3/4/5/360</model>
@@ -1730,14 +1730,14 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>53987</price>
+      <price>53980</price>
     </offer>
     <offer sku="107962630">
       <model>Аккумулятор DJI Mini 4 Pro/Mini 3 Series Plus</model>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>54986</price>
+      <price>54979</price>
     </offer>
     <offer sku="102485590">
       <model>Аккумулятор DJI Mini 2/4K</model>
