@@ -1,64 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog date="2026-11-23 22:48" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog date="2026-11-23 23:31" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>DIGITAL-PRO</company>
   <merchantid>16037339</merchantid>
   <offers>
-    <offer sku="CP.RN.00000432.0111">
-      <model>DJI Mic mini (2 TX + 1 RX + Charging Case) + Mobile Phone Adapter (Lightning)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>115000</price>
-    </offer>
-    <offer sku="151558593">
-      <model>Микрофон DJI Mic Mini (2 микрофона + приемник)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>56000</price>
-    </offer>
-    <offer sku="151558601">
-      <model>Микрофон DJI Mic Mini (микрофон + приемник)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>35000</price>
-    </offer>
-    <offer sku="120498086">
-      <model>Микрофон-передатчик DJI Mic 2 (белый)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>85000</price>
-    </offer>
-    <offer sku="CP.RN.00000432.011">
-      <model>DJI Mic mini (1 RX + 1 TX) + Mobile Phone Adapter (Lightning)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>75000</price>
-    </offer>
-    <offer sku="157757590">
-      <model>Микрофон DJI Mic Mini (2 микрофона белый и черный + приемник)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>55000</price>
-    </offer>
-    <offer sku="137212629">
-      <model>Микрофон-передатчик DJI Mic Mini (белый)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>36000</price>
-    </offer>
-    <offer sku="131087435">
-      <model>Микрофон DJI Mic Mini (1 TX + 1 RX)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>75000</price>
-    </offer>
     <offer sku="115247848">
       <model>Микрофон LUUCCO ProTalker S2</model>
       <availabilities>
@@ -87,13 +31,6 @@
       </availabilities>
       <price>25000</price>
     </offer>
-    <offer sku="133580455">
-      <model>Микрофон-передатчик DJI Mic 2 (черный)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>85000</price>
-    </offer>
     <offer sku="165758883">
       <model>Микрофон DJI Mic Mini 2 (2 TX + 1 RX + Charging Case)</model>
       <availabilities>
@@ -108,33 +45,12 @@
       </availabilities>
       <price>350000</price>
     </offer>
-    <offer sku="165758906">
-      <model>Микрофон DJI Mic Mini 2 (1 TX + 1 RX)</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>55000</price>
-    </offer>
     <offer sku="804362474">
       <model>Микрофон DJI Mic 3 Compact 1-Person (1-TX + 1RX)</model>
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>160000</price>
-    </offer>
-    <offer sku="157913261">
-      <model>Микрофон DJI Mic 3 (2 TX + 1 RX + Charging Case + Lighting)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>170000</price>
-    </offer>
-    <offer sku="146026055">
-      <model>Микрофон-передатчик DJI Mic 3 (черный)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>120000</price>
     </offer>
     <offer sku="130884974">
       <model>Микрофон DJI Mic Mini (2 TX + 1 RX + Charging Case)</model>
@@ -143,75 +59,12 @@
       </availabilities>
       <price>125000</price>
     </offer>
-    <offer sku="131026253">
-      <model>Держатель LUUCCO WireFree</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>14194</price>
-    </offer>
-    <offer sku="137212623">
-      <model>Микрофон-передатчик DJI Mic Mini (черный)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>36000</price>
-    </offer>
     <offer sku="139954812">
       <model>DJI Mic 2 Camera Adapter</model>
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>45000</price>
-    </offer>
-    <offer sku="150702348">
-      <model>DJI Mic адаптер (USB-C to USB-C)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>15000</price>
-    </offer>
-    <offer sku="149410109">
-      <model>Магнитное крепление DJI Mic 2</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>9993</price>
-    </offer>
-    <offer sku="123344786">
-      <model>Адаптер DJI Mic 2 для разъема Lightning</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>25000</price>
-    </offer>
-    <offer sku="122346230">
-      <model>Микрофон DJI Lavalier Mic</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>45000</price>
-    </offer>
-    <offer sku="149410112">
-      <model>Магнитное крепление DJI Mic Mini</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>10000</price>
-    </offer>
-    <offer sku="148974960">
-      <model>Мобильный приемник DJI Mic Series</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>21000</price>
-    </offer>
-    <offer sku="150702344">
-      <model>DJI Mic адаптер (USB-C to Lightning)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>30000</price>
     </offer>
     <offer sku="139954819">
       <model>DJI Mic Mini/Mic 3 Camera Adapter</model>
@@ -230,23 +83,9 @@
     <offer sku="131847578">
       <model>Адаптер DJI Mic Mini для разъема Lightning</model>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>26250</price>
-    </offer>
-    <offer sku="146026051">
-      <model>Приемник DJI Mic 3</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>119993</price>
-    </offer>
-    <offer sku="149410108">
-      <model>Приемник DJI Mic Mini</model>
-      <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
-      <price>28000</price>
+      <price>26250</price>
     </offer>
     <offer sku="116347057">
       <model>Адаптер DJI Mic 1 для разъема Lightning</model>
@@ -254,13 +93,6 @@
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>35000</price>
-    </offer>
-    <offer sku="123591316">
-      <model>Дрон DJI Mini 4K с пультом RC N1</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>205000</price>
     </offer>
     <offer sku="146314262">
       <model>Дрон DJI Mini 5 Pro (DJI RC-N3)</model>
@@ -283,61 +115,12 @@
       </availabilities>
       <price>290000</price>
     </offer>
-    <offer sku="128991715">
-      <model>Дрон DJI Air 3S (RC-N3)</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>650000</price>
-    </offer>
-    <offer sku="120235444">
-      <model>Дрон DJI Mini 4K Fly More Combo</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>285000</price>
-    </offer>
-    <offer sku="131273087">
-      <model>Дрон DJI Air 3S Fly More Combo (RC-N3)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>860000</price>
-    </offer>
-    <offer sku="115771920">
-      <model>Дрон DJI Mini 3 с пультом RC</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>325000</price>
-    </offer>
-    <offer sku="129158116">
-      <model>Дрон DJI Air 3S Fly More Combo (RC2)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>820000</price>
-    </offer>
     <offer sku="929126977">
       <model>Дрон DJI Neo Motion Fly More Combo</model>
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>360000</price>
-    </offer>
-    <offer sku="146314249">
-      <model>Дрон DJI Mini 5 Pro Fly More Combo (пульт RC-N3)</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>599994</price>
-    </offer>
-    <offer sku="112459159_857628795">
-      <model>Дрон DJI Mavic 3 Pro Fly More Combo (RC PRO)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>2100000</price>
     </offer>
     <offer sku="CP.MA.00000735.01">
       <model>Дрон DJI Mini 4 Pro Fly More Combo (DJI RC 2)</model>
@@ -346,68 +129,12 @@
       </availabilities>
       <price>695000</price>
     </offer>
-    <offer sku="141302199">
-      <model>DJI Air3s (no RC)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>620000</price>
-    </offer>
     <offer sku="119102217_115688100">
       <model>Дрон DJI Avata 2 Fly More Combo (1-Battery)</model>
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>620000</price>
-    </offer>
-    <offer sku="146314238">
-      <model>Дрон DJI Mini 5 Pro Fly More Combo (DJI RC 2)</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>600000</price>
-    </offer>
-    <offer sku="109324419">
-      <model>Дрон DJI Mini 3 Fly More Combo (RC)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>440000</price>
-    </offer>
-    <offer sku="136792077">
-      <model>Дрон DJI Mini 4K Fly More Combo + защита</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>275000</price>
-    </offer>
-    <offer sku="139907271">
-      <model>Дрон DJI Mavic 4 Pro (DJI RC 2)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>1200000</price>
-    </offer>
-    <offer sku="136121539">
-      <model>Дрон DJI Flip с пультом DJI RC-N3</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>240000</price>
-    </offer>
-    <offer sku="112821858">
-      <model>Дрон DJI Mini 3 с пультом RC N1</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>280000</price>
-    </offer>
-    <offer sku="133319786">
-      <model>Дрон DJI Flip Fly More Combo (RC 2)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>400000</price>
     </offer>
     <offer sku="133319832">
       <model>Дрон DJI Flip с пультом DJI RC 2</model>
@@ -444,48 +171,6 @@
       </availabilities>
       <price>46994</price>
     </offer>
-    <offer sku="149289741">
-      <model>Зарядная станция DJI Mini 5 Pro</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>28000</price>
-    </offer>
-    <offer sku="106175471">
-      <model>Аккумулятор DJI Mavic 3</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>89984</price>
-    </offer>
-    <offer sku="137232397">
-      <model>Очки DJI Goggles N3</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>130000</price>
-    </offer>
-    <offer sku="150194629">
-      <model>Аккумулятор DJI Neo 2</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>33750</price>
-    </offer>
-    <offer sku="158714388">
-      <model>Пропеллеры DJI Neo 2 (2 шт)</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="2"/>
-      </availabilities>
-      <price>20000</price>
-    </offer>
-    <offer sku="113509216">
-      <model>Защита пропеллера DJI Mini 4 Pro</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>25000</price>
-    </offer>
     <offer sku="116457742">
       <model>Аккумулятор DJI Mini 4 Pro/Mini 3 Series Plus</model>
       <availabilities>
@@ -500,68 +185,12 @@
       </availabilities>
       <price>50000</price>
     </offer>
-    <offer sku="118306506">
-      <model>Очки DJI Goggles 3</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>390000</price>
-    </offer>
     <offer sku="141416735">
       <model>Аккумулятор DJI Flip</model>
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>65000</price>
-    </offer>
-    <offer sku="175304220">
-      <model>Кейс для DJI Air3/3s</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>30000</price>
-    </offer>
-    <offer sku="108681967">
-      <model>Пропеллеры DJI Mini 3 (4 шт)</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="2"/>
-      </availabilities>
-      <price>14993</price>
-    </offer>
-    <offer sku="113489914">
-      <model>Аккумулятор DJI Mini 4Pro</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>65000</price>
-    </offer>
-    <offer sku="108682389">
-      <model>Кабель для пульта DJI RC-N (разъем Lightning)</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="3"/>
-      </availabilities>
-      <price>10500</price>
-    </offer>
-    <offer sku="119247321">
-      <model>Пульт DJI FPV Remote Controller 3</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="2"/>
-      </availabilities>
-      <price>93000</price>
-    </offer>
-    <offer sku="139747515">
-      <model>Аккумулятор DJI Mavic 4 Pro</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>160000</price>
-    </offer>
-    <offer sku="149410114">
-      <model>Фильтр DJI Mini 5 Pro (ND8/32/128)</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>35000</price>
     </offer>
     <offer sku="CP.MA.00000424.01">
       <model>Пропеллер DJI Mavic 3 (2 шт)</model>
@@ -610,7 +239,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="2"/>
       </availabilities>
-      <price>73885</price>
+      <price>73870</price>
     </offer>
     <offer sku="113244306">
       <model>Пропеллер DJI Air 3/3S (2 шт)</model>
@@ -654,20 +283,6 @@
       </availabilities>
       <price>44993</price>
     </offer>
-    <offer sku="139758861">
-      <model>Пропеллер DJI Mavic 4 Pro (2 шт)</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="2"/>
-      </availabilities>
-      <price>27993</price>
-    </offer>
-    <offer sku="108682391">
-      <model>Кабель для пульта DJI RC-N (разъем USB-C)</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>7900</price>
-    </offer>
     <offer sku="151127376">
       <model>Пропеллеры DJI Flip (4 шт)</model>
       <availabilities>
@@ -675,26 +290,12 @@
       </availabilities>
       <price>12000</price>
     </offer>
-    <offer sku="149410110">
-      <model>Аккумулятор DJI Mini 5 Pro</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>60000</price>
-    </offer>
     <offer sku="149410113">
       <model>Аккумулятор DJI Mini 5 Pro Plus</model>
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>75000</price>
-    </offer>
-    <offer sku="131879676">
-      <model>Аккумулятор DJI Neo</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>37000</price>
     </offer>
     <offer sku="108682101">
       <model>Аккумулятор DJI Mini 3 Series</model>
@@ -717,54 +318,12 @@
       </availabilities>
       <price>25000</price>
     </offer>
-    <offer sku="123238037">
-      <model>Аккумулятор DJI Avata 2</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>53644</price>
-    </offer>
-    <offer sku="143670912">
-      <model>Камера DJI Osmo 360 Adventure Combo</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>570000</price>
-    </offer>
-    <offer sku="155184006">
-      <model>DJI Osmo Pocket 3 Creator Combo + подарок</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>310000</price>
-    </offer>
-    <offer sku="128021595">
-      <model>DJI Osmo Action 5 Pro Adventure Combo</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>350000</price>
-    </offer>
     <offer sku="CP.RN.00000397.02">
       <model>Видео-передатчик DJI SDR Transmission Combo</model>
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>263441</price>
-    </offer>
-    <offer sku="114577793">
-      <model>Портативная камера DJI Osmo Pocket 3 (standard)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>380000</price>
-    </offer>
-    <offer sku="150702345">
-      <model>DJI Osmo Action 6 Adventure Combo</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>290000</price>
     </offer>
     <offer sku="741338895">
       <model>Экшн-камера Osmo Nano Standard Combo (128 Gb)</model>
@@ -773,20 +332,6 @@
       </availabilities>
       <price>300000</price>
     </offer>
-    <offer sku="112492120">
-      <model>DJI Osmo Action 4 Adventure Combo</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>250000</price>
-    </offer>
-    <offer sku="146581224">
-      <model>Экшн-камера Osmo Nano Standard Combo (64 Gb)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>205000</price>
-    </offer>
     <offer sku="114696264">
       <model>Портативная камера DJI Osmo Pocket 3 Creator Combo</model>
       <availabilities>
@@ -794,141 +339,8 @@
       </availabilities>
       <price>480000</price>
     </offer>
-    <offer sku="143670911">
-      <model>Камера DJI Osmo 360 Standard Combo</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="2"/>
-      </availabilities>
-      <price>225994</price>
-    </offer>
-    <offer sku="128021621">
-      <model>DJI Osmo Action 5 Pro Standard</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>280000</price>
-    </offer>
-    <offer sku="151250487">
-      <model>DJI Osmo Action 6 Standard</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>350000</price>
-    </offer>
-    <offer sku="154322197">
-      <model>DJI Osmo Backpack Strap Mount (для рюкзака)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>25000</price>
-    </offer>
-    <offer sku="149659642">
-      <model>Адаптер расширения DJI Osmo Pocket 3</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>25000</price>
-    </offer>
-    <offer sku="162528660">
-      <model>DJI Osmo Action Two-Way Mini Extension Rod</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>40000</price>
-    </offer>
-    <offer sku="157704173">
-      <model>Кейс Pocket 3 (подарок)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>25000</price>
-    </offer>
-    <offer sku="137016737">
-      <model>DJI аккумулятор Osmo Pocket 3</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="2"/>
-      </availabilities>
-      <price>42000</price>
-    </offer>
-    <offer sku="154322173">
-      <model>DJI Osmo Action Hanging Neck Mount (для шеи)</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="2"/>
-      </availabilities>
-      <price>20000</price>
-    </offer>
-    <offer sku="138612871">
-      <model>DJI Osmo Action Cold Shoe Expansion Kit быстросъемная площадка</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="2"/>
-      </availabilities>
-      <price>19993</price>
-    </offer>
-    <offer sku="154322208">
-      <model>DJI Osmo Action 1.5m Extension Rod Kit (селфи 1,5 м)</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>29604</price>
-    </offer>
-    <offer sku="156540658">
-      <model>Full Camera Cage for DJI Osmo Action 5 + комплект</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>45000</price>
-    </offer>
-    <offer sku="154322158">
-      <model>DJI Osmo 360 Battery Extension Rod (штатив с зарядкой)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>85000</price>
-    </offer>
-    <offer sku="154308813">
-      <model>Full Camera Cage for DJI Osmo Action 6</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>40000</price>
-    </offer>
-    <offer sku="137800545">
-      <model>DJI Osmo Action 3.5mm Audio Adapter</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>33993</price>
-    </offer>
-    <offer sku="154322126">
-      <model>DJI Osmo Action GPS Bluetooth пульт</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>55000</price>
-    </offer>
     <offer sku="148884599">
       <model>Аккумулятор DJI Osmo Action 3/4/5/360 Plus</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>35000</price>
-    </offer>
-    <offer sku="148884380">
-      <model>DJI Osmo Nano повязка на голову</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>25000</price>
-    </offer>
-    <offer sku="106930318">
-      <model>DJI Osmo Action Chest Strap Mount (нагрудной ремень)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>40000</price>
-    </offer>
-    <offer sku="149011777">
-      <model>DJI Osmo Nano шаровая головка с присоской</model>
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
@@ -941,26 +353,12 @@
       </availabilities>
       <price>18000</price>
     </offer>
-    <offer sku="154165860">
-      <model>Страховочный трос DJI Osmo Diving</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>13994</price>
-    </offer>
     <offer sku="138720463">
       <model>DJI Osmo Action Mini Extension Rod</model>
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>40000</price>
-    </offer>
-    <offer sku="154308807">
-      <model>DJI Osmo Action присоска для авто</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>27000</price>
     </offer>
     <offer sku="120755450">
       <model>Комплект фильтра DJI ND Filters for Pocket 3</model>
@@ -969,97 +367,6 @@
       </availabilities>
       <price>70000</price>
     </offer>
-    <offer sku="151063069">
-      <model>DJI Osmo Action 6 FOV Boost Lens (широкоугольный)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>95000</price>
-    </offer>
-    <offer sku="154162911">
-      <model>Кейс Pocket 3 (большой)</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="3"/>
-      </availabilities>
-      <price>30000</price>
-    </offer>
-    <offer sku="138612744">
-      <model>DJI Osmo Flexible Mount (гибкое крепление)</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="2"/>
-      </availabilities>
-      <price>19993</price>
-    </offer>
-    <offer sku="154162932">
-      <model>Кейс Pocket 3 (compact)</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="2"/>
-      </availabilities>
-      <price>28000</price>
-    </offer>
-    <offer sku="154308824">
-      <model>Подводный бокс для DJI Osmo Action 6</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="3"/>
-      </availabilities>
-      <price>47994</price>
-    </offer>
-    <offer sku="156834525">
-      <model>Быстросъемный адаптер DJI Osmo Action 6/Nano</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>16000</price>
-    </offer>
-    <offer sku="138720464">
-      <model>Защита объектива DJI Osmo Action 5 Pro Glass Lens Cover</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>20000</price>
-    </offer>
-    <offer sku="162174461">
-      <model>Быстросъемный складной адаптер DJI Osmo Action 6/Nano</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>22000</price>
-    </offer>
-    <offer sku="136121539_950922802">
-      <model>DJI Osmo Vortex Rotating Handle</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>35000</price>
-    </offer>
-    <offer sku="148884471">
-      <model>DJI Osmo нагрудный ремень</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>24993</price>
-    </offer>
-    <offer sku="154165846">
-      <model>Кейс зарядка DJI Osmo Battery Case 3</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>56000</price>
-    </offer>
-    <offer sku="106930300">
-      <model>DJI Osmo Action Helmet Chin Mount (для подбородка)</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>18000</price>
-    </offer>
-    <offer sku="154322295">
-      <model>DJI Osmo Action Curved Adhesive Base Kit изогнутое  (2 шт)</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="2"/>
-      </availabilities>
-      <price>10598</price>
-    </offer>
     <offer sku="144327765">
       <model>Широкоугольный объектив для DJI Osmo Pocket 3</model>
       <availabilities>
@@ -1067,26 +374,12 @@
       </availabilities>
       <price>40000</price>
     </offer>
-    <offer sku="150832012">
-      <model>Набор фильтров DJI Osmo Action 6ND</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>45000</price>
-    </offer>
-    <offer sku="150702347">
-      <model>Зарядная селфи палка Osmo Action</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>80000</price>
-    </offer>
     <offer sku="154402773">
       <model>Защита объектива DJI Osmo Action 6 Glass Lens Cover</model>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="5"/>
       </availabilities>
-      <price>15737</price>
+      <price>15730</price>
     </offer>
     <offer sku="130602373">
       <model>Аккумулятор DJI Osmo Action 3/4/5/360</model>
@@ -1094,13 +387,6 @@
         <availability available="yes" storeId="PP1" stockCount="2"/>
       </availabilities>
       <price>20000</price>
-    </offer>
-    <offer sku="151294528">
-      <model>Крепление на руль DJI Action 6/Nano</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>31993</price>
     </offer>
     <offer sku="SDCFXPS-064G-A46">
       <model>Карта памяти SanDisk Extreme Pro CompactFlash 64 Gb 160 Mb/s</model>
@@ -1114,7 +400,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>94668</price>
+      <price>94661</price>
     </offer>
     <offer sku="117020567">
       <model>Картридер Xcellon CR-P20</model>
@@ -1122,20 +408,6 @@
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>15000</price>
-    </offer>
-    <offer sku="150053425">
-      <model>SanDisk PRO-READER CFexpress Type B Card Reader</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>80000</price>
-    </offer>
-    <offer sku="148317101">
-      <model>Карта памяти SanDisk 480GB PRO-CINEMA CFexpress Type A</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>170000</price>
     </offer>
     <offer sku="119515476">
       <model>Карта памяти SanDisk 256GB Extreme PRO CFexpress (B) 1700 Mb/s</model>
@@ -1150,13 +422,6 @@
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>80000</price>
-    </offer>
-    <offer sku="145167087">
-      <model>Карта памяти SanDisk 512 Gb microSD Express 880 MB/s</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>120000</price>
     </offer>
     <offer sku="102453176">
       <model>Карта памяти SanDisk 1 Tb Extreme UHS-I microSDXC 190 Mb/s</model>
@@ -1200,13 +465,6 @@
       </availabilities>
       <price>8000</price>
     </offer>
-    <offer sku="136980306">
-      <model>Карта памяти SanDisk 128 Gb microSD Express 880 MB/s</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>60000</price>
-    </offer>
     <offer sku="139985023">
       <model>Карта памяти SanDisk 64 Gb Extreme PRO UHS-II SDXC 300 Mb/s</model>
       <availabilities>
@@ -1242,40 +500,12 @@
       </availabilities>
       <price>35000</price>
     </offer>
-    <offer sku="149692599">
-      <model>Карта памяти SanDisk 1 Tb Extreme PRO UHS-I SDXC 200 Mb/s</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>140000</price>
-    </offer>
     <offer sku="SDSDXXD-256G-ANCIN">
       <model>Карта памяти SanDisk 256 Gb Extreme PRO UHS-I SDXC 200 Mb/s</model>
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>40000</price>
-    </offer>
-    <offer sku="154372287">
-      <model>SanDisk 1TB Creator Phone USB 3.2 Gen 2 External SSD</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>150000</price>
-    </offer>
-    <offer sku="138095140">
-      <model>SanDisk 1TB Extreme USB 3.2 Gen 2 Portable SSD for PlayStation 5</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>125000</price>
-    </offer>
-    <offer sku="149870244">
-      <model>SanDisk 8TB Extreme Portable SSD V2</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>450000</price>
     </offer>
     <offer sku="101694879">
       <model>SanDisk 1TB Extreme Portable SSD V2</model>
@@ -1305,13 +535,6 @@
       </availabilities>
       <price>105000</price>
     </offer>
-    <offer sku="101694959">
-      <model>SanDisk 4TB Extreme Portable SSD V2</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>260000</price>
-    </offer>
     <offer sku="102795490">
       <model>SanDisk 1TB Portable SSD 800 Mb/s</model>
       <availabilities>
@@ -1325,41 +548,6 @@
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>75000</price>
-    </offer>
-    <offer sku="163084887">
-      <model>SANDISK Extreme Fit USB-C Flash Drive - 64GB</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>35000</price>
-    </offer>
-    <offer sku="150702351">
-      <model>SANDISK Extreme Fit USB-C Flash Drive - 256GB</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>65000</price>
-    </offer>
-    <offer sku="SDIX60N-128G-AN6NE">
-      <model>Флеш накопитель SanDisk 128GB iXpand Flash Drive Go</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>35000</price>
-    </offer>
-    <offer sku="163084847">
-      <model>SANDISK Extreme Fit USB-C Flash Drive - 1 TB</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>160000</price>
-    </offer>
-    <offer sku="171096405">
-      <model>SANDISK Phone SSD - 1TB</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>160000</price>
     </offer>
     <offer sku="113510921">
       <model>Флеш накопитель SanDisk 128GB iXpand Flash Drive Luxe</model>
@@ -1375,13 +563,6 @@
       </availabilities>
       <price>96000</price>
     </offer>
-    <offer sku="150702350">
-      <model>SANDISK Extreme Fit USB-C Flash Drive - 128GB</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>25000</price>
-    </offer>
     <offer sku="HPR-003X2">
       <model>Кабель стерео Hosa Technology 6,3 mm jack 2 (папа) на RCA 2 (папа) 90 см</model>
       <availabilities>
@@ -1395,20 +576,6 @@
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>10000</price>
-    </offer>
-    <offer sku="150945701">
-      <model>Бутыль 11,3 л</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="4"/>
-      </availabilities>
-      <price>5950</price>
-    </offer>
-    <offer sku="178457354">
-      <model>Крышка резбовая</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="3"/>
-      </availabilities>
-      <price>1000</price>
     </offer>
     <offer sku="117621398">
       <model>Аудио-рекордер Zoom H4essential</model>
@@ -1501,54 +668,12 @@
       </availabilities>
       <price>13000</price>
     </offer>
-    <offer sku="112310360">
-      <model>Аудио-рекордер 8 канальный TASCAM Portacapture X8</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>290000</price>
-    </offer>
-    <offer sku="115922623">
-      <model>HD-SDI кабель Canare длиной 7,5 метров</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>80000</price>
-    </offer>
-    <offer sku="177359119">
-      <model>Бутыль 7.5 л</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="3"/>
-      </availabilities>
-      <price>4500</price>
-    </offer>
-    <offer sku="156540654">
-      <model>Стедикам DJI Osmo Mobile 8 (черный) + кейс</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>80000</price>
-    </offer>
     <offer sku="118339704">
       <model>Стедикам DJI RS 4 Combo</model>
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>380000</price>
-    </offer>
-    <offer sku="156540655">
-      <model>Кейс для DJI Osmo Mobile 8</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>18000</price>
-    </offer>
-    <offer sku="107073994">
-      <model>Стедикам DJI Osmo Mobile SE</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>50000</price>
     </offer>
     <offer sku="CP.RN.00000218.03">
       <model>Стедикам DJI RS 3 Pro Combo</model>
@@ -1557,26 +682,12 @@
       </availabilities>
       <price>495000</price>
     </offer>
-    <offer sku="154468705">
-      <model>Стедикам DJI RS 5</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>350000</price>
-    </offer>
     <offer sku="108529498">
       <model>Стедикам DJI RS 3 Mini</model>
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>160000</price>
-    </offer>
-    <offer sku="157495705">
-      <model>DJI RS колесо фокусировки</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>45000</price>
     </offer>
     <offer sku="135303310">
       <model>Стедикам DJI Osmo Mobile 7 (Серый)</model>
@@ -1683,13 +794,6 @@
       </availabilities>
       <price>80000</price>
     </offer>
-    <offer sku="148908097">
-      <model>Стедикам DJI Osmo Mobile 8 (черный)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>130000</price>
-    </offer>
     <offer sku="116137300">
       <model>Слайдер Varavon SL-S1500</model>
       <availabilities>
@@ -1697,26 +801,12 @@
       </availabilities>
       <price>150000</price>
     </offer>
-    <offer sku="137927662">
-      <model>Стедикам DJI RS 4 Mini Creator Combo</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>260000</price>
-    </offer>
     <offer sku="105668656">
       <model>Стедикам DJI RS 3</model>
       <availabilities>
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>260000</price>
-    </offer>
-    <offer sku="138621176">
-      <model>Магнитная наклейка DJI OM Quick Release</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>15000</price>
     </offer>
     <offer sku="135306439">
       <model>Стедикам DJI RS 4 Mini Combo</model>
@@ -1746,13 +836,6 @@
       </availabilities>
       <price>395000</price>
     </offer>
-    <offer sku="154469059">
-      <model>Стедикам DJI RS 5 Combo</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>530000</price>
-    </offer>
     <offer sku="135306411">
       <model>Стедикам DJI RS 4 Mini</model>
       <availabilities>
@@ -1766,34 +849,6 @@
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>290000</price>
-    </offer>
-    <offer sku="144365204">
-      <model>DJI Phone Holder for RS 4 Mini</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="3"/>
-      </availabilities>
-      <price>24993</price>
-    </offer>
-    <offer sku="165897868">
-      <model>DJI Osmo Mobile 8P AI с модулем отслеживания</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>111187</price>
-    </offer>
-    <offer sku="106715049">
-      <model>Стедикам DJI Osmo Mobile 6 (Black)</model>
-      <availabilities>
-        <availability available="no" storeId="PP1" stockCount="0"/>
-      </availabilities>
-      <price>90000</price>
-    </offer>
-    <offer sku="166541219">
-      <model>DJI Osmo Mobile 8P Standard</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
-      </availabilities>
-      <price>90000</price>
     </offer>
     <offer sku="115247848_574394">
       <model>Микрофон LUUCCO ProTalker S2</model>
@@ -1863,7 +918,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="2"/>
       </availabilities>
-      <price>73885</price>
+      <price>73870</price>
     </offer>
     <offer sku="113244306_948880">
       <model>Пропеллер DJI Air 3/3S (2 шт)</model>
@@ -1912,7 +967,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>94668</price>
+      <price>94661</price>
     </offer>
     <offer sku="CR-P20">
       <model>Картридер Xcellon CR-P20</model>
@@ -2232,7 +1287,7 @@
     <offer sku="134373181">
       <model>Адаптер DJI Mic Mini для разъема Lightning</model>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>26250</price>
     </offer>
@@ -2360,14 +1415,14 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>53994</price>
+      <price>53987</price>
     </offer>
     <offer sku="107962630">
       <model>Аккумулятор DJI Mini 4 Pro/Mini 3 Series Plus</model>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>54993</price>
+      <price>54986</price>
     </offer>
     <offer sku="102485590">
       <model>Аккумулятор DJI Mini 2/4K</model>
@@ -2416,7 +1471,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="2"/>
       </availabilities>
-      <price>73993</price>
+      <price>73986</price>
     </offer>
     <offer sku="150194774">
       <model>Пропеллер DJI Air 3/3S (2 шт)</model>
