@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<kaspi_catalog date="2026-11-24 00:49" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog date="2026-11-24 20:25" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
   <company>DIGITAL-PRO</company>
   <merchantid>16037339</merchantid>
   <offers>
@@ -127,7 +127,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>485000</price>
+      <price>380000</price>
     </offer>
     <offer sku="113428521">
       <model>Дрон DJI Mini 4 Pro (DJI RC-N2)</model>
@@ -218,7 +218,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>89984</price>
+      <price>89977</price>
     </offer>
     <offer sku="137232397">
       <model>Очки DJI Goggles N3</model>
@@ -337,7 +337,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="2"/>
       </availabilities>
-      <price>73855</price>
+      <price>73840</price>
     </offer>
     <offer sku="113244306">
       <model>Пропеллер DJI Air 3/3S (2 шт)</model>
@@ -435,7 +435,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>53626</price>
+      <price>53363</price>
     </offer>
     <offer sku="CP.RN.00000397.02">
       <model>Видео-передатчик DJI SDR Transmission Combo</model>
@@ -491,7 +491,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="2"/>
       </availabilities>
-      <price>19994</price>
+      <price>19987</price>
     </offer>
     <offer sku="154322208">
       <model>DJI Osmo Action 1.5m Extension Rod Kit (селфи 1,5 м)</model>
@@ -526,7 +526,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>13994</price>
+      <price>13987</price>
     </offer>
     <offer sku="138720463">
       <model>DJI Osmo Action Mini Extension Rod</model>
@@ -575,7 +575,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="3"/>
       </availabilities>
-      <price>47994</price>
+      <price>47987</price>
     </offer>
     <offer sku="162174461">
       <model>Быстросъемный складной адаптер DJI Osmo Action 6/Nano</model>
@@ -603,7 +603,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="2"/>
       </availabilities>
-      <price>10598</price>
+      <price>10591</price>
     </offer>
     <offer sku="144327765">
       <model>Широкоугольный объектив для DJI Osmo Pocket 3</model>
@@ -617,7 +617,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="5"/>
       </availabilities>
-      <price>15723</price>
+      <price>15716</price>
     </offer>
     <offer sku="130602373">
       <model>Аккумулятор DJI Osmo Action 3/4/5/360</model>
@@ -645,7 +645,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>94652</price>
+      <price>94599</price>
     </offer>
     <offer sku="117020567">
       <model>Картридер Xcellon CR-P20</model>
@@ -857,13 +857,6 @@
       </availabilities>
       <price>10000</price>
     </offer>
-    <offer sku="150945701">
-      <model>Бутыль 11,3 л</model>
-      <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="2"/>
-      </availabilities>
-      <price>5950</price>
-    </offer>
     <offer sku="178457354">
       <model>Крышка резбовая</model>
       <availabilities>
@@ -968,6 +961,13 @@
         <availability available="no" storeId="PP1" stockCount="0"/>
       </availabilities>
       <price>380000</price>
+    </offer>
+    <offer sku="166541219">
+      <model>DJI Osmo Mobile 8P Standard</model>
+      <availabilities>
+        <availability available="yes" storeId="PP1" stockCount="1"/>
+      </availabilities>
+      <price>90000</price>
     </offer>
     <offer sku="CP.RN.00000218.03">
       <model>Стедикам DJI RS 3 Pro Combo</model>
@@ -1149,21 +1149,21 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="3"/>
       </availabilities>
-      <price>25000</price>
+      <price>24993</price>
     </offer>
     <offer sku="165897868">
       <model>DJI Osmo Mobile 8P AI с модулем отслеживания</model>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>111187</price>
+      <price>111179</price>
     </offer>
-    <offer sku="166541219">
-      <model>DJI Osmo Mobile 8P Standard</model>
+    <offer sku="150945701">
+      <model>Бутыль 11,3 л</model>
       <availabilities>
-        <availability available="yes" storeId="PP1" stockCount="1"/>
+        <availability available="yes" storeId="PP1" stockCount="2"/>
       </availabilities>
-      <price>90000</price>
+      <price>5950</price>
     </offer>
     <offer sku="115247848_574394">
       <model>Микрофон LUUCCO ProTalker S2</model>
@@ -1233,7 +1233,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="2"/>
       </availabilities>
-      <price>73855</price>
+      <price>73840</price>
     </offer>
     <offer sku="113244306_948880">
       <model>Пропеллер DJI Air 3/3S (2 шт)</model>
@@ -1282,7 +1282,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>94652</price>
+      <price>94599</price>
     </offer>
     <offer sku="CR-P20">
       <model>Картридер Xcellon CR-P20</model>
@@ -1618,7 +1618,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>485000</price>
+      <price>421803</price>
     </offer>
     <offer sku="113425594">
       <model>Дрон DJI Mini 4 Pro (DJI RC-N2)</model>
@@ -1730,14 +1730,14 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>53980</price>
+      <price>53973</price>
     </offer>
     <offer sku="107962630">
       <model>Аккумулятор DJI Mini 4 Pro/Mini 3 Series Plus</model>
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="1"/>
       </availabilities>
-      <price>54979</price>
+      <price>54972</price>
     </offer>
     <offer sku="102485590">
       <model>Аккумулятор DJI Mini 2/4K</model>
@@ -1786,7 +1786,7 @@
       <availabilities>
         <availability available="yes" storeId="PP1" stockCount="2"/>
       </availabilities>
-      <price>73979</price>
+      <price>73972</price>
     </offer>
     <offer sku="150194774">
       <model>Пропеллер DJI Air 3/3S (2 шт)</model>
